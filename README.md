@@ -10,7 +10,9 @@ CORAA is a public available dataset for Automatic Speech Recognition (ASR) for t
 
 The audios were either validated by annotators or transcript for the first time aiming at the ASR task.
 
-Download this Dataset: 
+## Downloads : 
+
+Dataset:
 
 - [Train audios](https://drive.google.com/file/d/144n95PykJVrL8aNvHSL5MTuxfzXYC6l7/view?usp=sharing)
 - [Train transcriptions and metadata](https://drive.google.com/file/d/14hhOguM8xVBSjGXE8FK7h5uTAPt1yjmG/view?usp=sharing)
@@ -26,11 +28,21 @@ Experiments:
 
 Model trained in this corpus: Wav2Vec 2.0 XLSR-53 (multilingual pretraining)
 
-Preprint:
+## Citation
 
-Full Paper: coming soon
+- Preprint: coming soon
+- Full Paper: coming soon
+- Oficial site: [Tarsila Project](https://sites.google.com/view/tarsila-c4ai/)
 
-References:
+## Partners / Sponsors / Funding
+
+- [C4AI](https://c4ai.inova.usp.br/pt/home-2/)
+- [CEIA](https://centrodeia.org/)
+- [UFG](https://www.ufg.br/)
+- [USP](https://www5.usp.br/)
+- [UTFPR](http://www.utfpr.edu.br/)
+
+## References
 
 - Gonçalves SCL (2019) Projeto ALIP (amostra linguística do interior paulista) e banco de dados iboruna: 10 anos de contribuição com a descrição do Português Brasileiro. Revista Estudos Linguísticos 48(1):276–297.
 - Raso T, Mello H, Mittmann MM (2012) The C-ORAL-BRASIL I: Reference corpus for spoken Brazilian Portuguese. In: Proceedings of the Eighth International Conference on Language Resources and Evaluation (LREC’12), European Language Resources Association (ELRA), Istanbul, Turkey, pp 106–113, URL http://www.lrec-conf.org/proceedings/lrec2012/pdf/624_Paper.pdf
