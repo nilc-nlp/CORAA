@@ -1,6 +1,6 @@
 # CORAA-v1
 
-CORAA is a public available dataset for Automatic Speech Recognition (ASR) for the Brazilian Portuguese language containing 289 hours of audios and their respective transcriptions (400k+ segmented audios). The dataset is composed from audios of 5 original projects:
+CORAA is a public available dataset for Automatic Speech Recognition (ASR) in the Brazilian Portuguese language containing 289 hours of audios and their respective transcriptions (400k+ segmented audios). The dataset is composed of audios of 5 original projects:
 
 - ALIP (Gonçalves, 2019)
 - C-ORAL Brazil (Raso and Mello, 2012)
