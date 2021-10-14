@@ -8,7 +8,7 @@ CORAA is a public available dataset for Automatic Speech Recognition (ASR) in th
 - SP-2010 (Mendes and Oushiro, 2012)
 - TEDx talks (talks in Portuguese)
 
-The audios were either validated by annotators or transcript for the first time aiming at the ASR task.
+The audios were either validated by annotators or transcripted for the first time aiming at the ASR task.
 
 ## Downloads : 
 
