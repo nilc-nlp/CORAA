@@ -10,6 +10,24 @@ CORAA is a public available dataset for Automatic Speech Recognition (ASR) in th
 
 The audios were either validated by annotators or transcripted for the first time aiming at the ASR task.
 
+## Metadata
+
+- file_path: the path to an audio file
+- task: transcription (annotators revised original transcriptions); annotation (annotators classified the audio-transcription pair according to votes_for_* metrics); annotation_and_transcription (both tasks were performed)
+- variety: European Portuguese (PT_PT) or Brazilian Portuguese (PT_BR)
+- dataset: one of five datasets (ALIP, C-oral Brasil, NURC-RE, SP2010, TEDx Portuguese)
+- accent: one of four accents (Minas Gerais, Recife, Sao Paulo cities, Sao Paulo capital) or the value "miscellaneous"
+- speech_genre: Interviews, Dialogues, Monologues, Conversations, Interviews, Conference, Class Talks, Stage Talks or Reading
+- speech_style: Spontaneous Speech or Prepared Speech or Read Speech
+- up_votes: for annotation, the number of votes to valid the audio (most audios were revewed by one annotor, but some of the audios were analyzed by more than one).
+- down_votes: for annotation, the number of votes do invalid the audio (always smaller than up_votes)
+- votes_for_hesitation: for annotation, votes categorizing the audio as having the hesitation phenomenon
+- votes_for_filled_pause: for annotation, votes categorizing the audio as having the filled pause phenomenon
+- votes_for_noise_or_low_voice: for annotation, votes categorizing the audio as either having noise or low voice, without impairing the audio compression.
+- votes_for_second_voice: for annotation, votes categorizing the audio as having a second voice, without impairing the audio compression
+- votes_for_no_identified_problem: without impairing the audio as having no identified phenomenon (of the four described above)
+- text: the transcription for the audio
+
 ## Downloads : 
 
 Dataset:
