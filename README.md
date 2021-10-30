@@ -1,4 +1,4 @@
-# CORAA-v1
+# CORAA-v1.1
 
 CORAA is a public available dataset for Automatic Speech Recognition (ASR) in the Brazilian Portuguese language containing 289 hours of audios and their respective transcriptions (400k+ segmented audios). The dataset is composed of audios of 5 original projects:
 
@@ -32,10 +32,10 @@ The audios were either validated by annotators or transcripted for the first tim
 
 Dataset:
 
-- [Train audios](https://drive.google.com/file/d/144n95PykJVrL8aNvHSL5MTuxfzXYC6l7/view?usp=sharing)
-- [Train transcriptions and metadata](https://drive.google.com/file/d/14hhOguM8xVBSjGXE8FK7h5uTAPt1yjmG/view?usp=sharing)
-- [Dev audios](https://drive.google.com/file/d/1VKzBCnLjsEZ87xKFqqJUemsbjg70Qq_q/view?usp=sharing)
-- [Dev transcriptions and metadata](https://drive.google.com/file/d/1tmE4nWJuqNC-yRLo5QhMXkTgB65J3EOY/view?usp=sharing)
+- [Train audios](https://drive.google.com/file/d/1deCciFD35EA_OEUl0MrEDa7u5O2KgVJM/view?usp=sharing)
+- [Train transcriptions and metadata](https://drive.google.com/file/d/1HbwahfMWoArYj0z2PfI4dHiambWfaNWg/view?usp=sharing)
+- [Dev audios](https://drive.google.com/file/d/1bIHctanQjW2ITOM5wNQSt_NjB45s0_Q_/view?usp=sharing)
+- [Dev transcriptions and metadata](https://drive.google.com/file/d/185erjax7lS_YNuolZvcMt_EdprafyMU0/view?usp=sharing)
 - Test set (to be released in the future)
 - Test transcriptions and metadata (to be released in the future)
 
