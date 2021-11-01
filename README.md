@@ -48,7 +48,18 @@ Model trained in this corpus: Wav2Vec 2.0 XLSR-53 (multilingual pretraining)
 
 ## Citation
 
-- Preprint: coming soon
+- [Preprint](https://arxiv.org/abs/2110.15731): 
+```
+@misc{c2021coraa,
+    title={CORAA: a large corpus of spontaneous and prepared speech manually validated for speech recognition in Brazilian Portuguese},
+    author={Arnaldo Candido Junior and Edresson Casanova and Anderson Soares and Frederico Santos de Oliveira and Lucas Oliveira and Ricardo Corso Fernandes Junior and Daniel Peixoto Pinto da Silva and Fernando Gorgulho Fayet and Bruno Baldissera Carlotto and Lucas Rafael Stefanel Gris and Sandra Maria Aluísio},
+    year={2021},
+    eprint={2110.15731},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL}
+}
+```
+
 - Full Paper: coming soon
 - Oficial site: [Tarsila Project](https://sites.google.com/view/tarsila-c4ai/)
 
