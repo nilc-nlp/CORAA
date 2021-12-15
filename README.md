@@ -36,7 +36,7 @@ Dataset:
 - [Train transcriptions and metadata](https://drive.google.com/file/d/1HbwahfMWoArYj0z2PfI4dHiambWfaNWg/view?usp=sharing)
 - [Dev audios](https://drive.google.com/file/d/1D1ft4F37zLjmGxQyhfkdjSs9cJzOL3nI/view?usp=sharing)
 - [Dev transcriptions and metadata](https://drive.google.com/file/d/185erjax7lS_YNuolZvcMt_EdprafyMU0/view?usp=sharing)
-- Test audios (to be released in the future)
+- [Test audios](https://drive.google.com/file/d/1vHH5oVo4zeJKchIyHHHjzvKD3QXuJxHZ/view?usp=sharing)
 - Test transcriptions and metadata (to be released in the future)
 
 Experiments:
