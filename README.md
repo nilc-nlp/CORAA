@@ -37,7 +37,7 @@ Dataset:
 - [Dev audios](https://drive.google.com/file/d/1D1ft4F37zLjmGxQyhfkdjSs9cJzOL3nI/view?usp=sharing)
 - [Dev transcriptions and metadata](https://drive.google.com/file/d/185erjax7lS_YNuolZvcMt_EdprafyMU0/view?usp=sharing)
 - [Test audios](https://drive.google.com/file/d/1vHH5oVo4zeJKchIyHHHjzvKD3QXuJxHZ/view?usp=sharing)
-- Test transcriptions and metadata (to be released in the future)
+- [Test transcriptions and metadata](https://drive.google.com/file/d/1hcNoA7-xOEn5s0iYjX6BebaEsx_7LfCd/view?usp=sharing)
 
 Experiments:
 
